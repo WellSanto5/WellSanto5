@@ -1,8 +1,7 @@
 
 <div>
   <h1>ʜᴇʟʟᴏ, ғʀɪᴇɴᴅ</h1>
-  <h5>Sou desenvolvedor JavaScript e Python. Faço faculdade de Defesa Cibernetica e Sistemas para Internet</h5>
-  <h5>Atualmente estou aprendendo inglês na plataforma The effortless english club e Mairo Vergara 5.0 (Fase do "Mar")<h5>
+  <h5>Tenho sólidos conhecimentos em HTML, CSS, JavaScript. Estou aprendendo Python e C</h5>
 </div>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WellSanto5&show_icons=true&theme=dracula">
